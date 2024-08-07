@@ -1,0 +1,25 @@
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\QC Copper UI.exe.config
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\QC Copper UI.exe
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\QC Copper UI.pdb
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\MaterialDesignColors.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\MaterialDesignColors.pdb
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI.csproj.AssemblyReference.cache
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\MainWindow.g.cs
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\App.g.cs
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI_MarkupCompile.cache
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI_MarkupCompile.lref
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\App.baml
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\MainWindow.baml
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI.g.resources
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC_Copper_UI.Properties.Resources.resources
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI.csproj.GenerateResource.cache
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI.csproj.CoreCompileInputs.cache
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Coppe.3038B9AE.Up2Date
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI.exe
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI.pdb

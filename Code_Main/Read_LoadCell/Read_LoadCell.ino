@@ -30,7 +30,7 @@ uint16_t au16data[16] = {3, 1415, 9265, 4, 2, 7182, 28182, 8, 0, 0, 0, 0, 0, 0, 
 
 
 void setup() {
- Serial.begin(115200);
+ Serial.begin(9600);
  Serial.println("Initializing the scale");
 
   scale.begin(LOADCELL_DOUT_PIN, LOADCELL_SCK_PIN);
@@ -57,21 +57,23 @@ void setup() {
 }
 
 void loop() {
-  double weight = scale.get_units(10);
-  bus.poll( au16data, 16 );
+  //double weight = scale.get_units(10);
+  //bus.poll( au16data, 16 );
  // Serial.print(au16data[0]);
-  Serial.println(""); 
-  Serial.print("Khối Lượng Tịnh: ");
-  Serial.print(weight / 1000, 3);
-  Serial.print("(Kg)");
-  Serial.print("|==>");
-  Serial.print(weight, 3);
-  Serial.print("(gram)");
-  if (weight / 1000 >= 50) {
-    Serial.print("|Bạn Nặng Như Con Heo!!!!");
-  } else if (weight / 1000 > 40 && weight / 1000 < 50) {
-    Serial.print("|Gầy quá không đẹp!!!!");
-  } else {
-    // Do nothing
-  }
+  // Serial.println(""); 
+  // Serial.print("Khối Lượng Tịnh: ");
+  double test = random(1000,10000);
+  Serial.println(test/1000, 3);
+  // Serial.print("(Kg)");
+  // Serial.print("|==>");
+  // Serial.print(weight, 1);
+  // Serial.print("(gram)");
+  // if (weight / 1000 >= 50) {
+  //   Serial.print("|Bạn Nặng Như Con Heo!!!!");
+  // } else if (weight / 1000 > 40 && weight / 1000 < 50) {
+  //   Serial.print("|Gầy quá không đẹp!!!!");
+  // } else {
+  //   // Do nothing
+  // }
+  delay(100);
 }

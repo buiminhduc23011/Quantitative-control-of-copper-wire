@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3447BA-953B-4BEF-8941-56588BA21CB5}|QC Copper UI\\QC Copper UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\qc copper ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D3447BA-953B-4BEF-8941-56588BA21CB5}|QC Copper UI\\QC Copper UI.csproj|solutionrelative:qc copper ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QC Copper UI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3447BA-953B-4BEF-8941-56588BA21CB5}|QC Copper UI\\QC Copper UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\qc copper ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D3447BA-953B-4BEF-8941-56588BA21CB5}|QC Copper UI\\QC Copper UI.csproj|solutionrelative:qc copper ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3447BA-953B-4BEF-8941-56588BA21CB5}|QC Copper UI\\QC Copper UI.csproj|g:\\my drive\\sti\\04.shiv12\\24.thi\u1EBFt gi\u00E1m s\u00E1t s\u1ED1 l\u01B0\u1EE3ng \u0111\u1ED3ng kho \u0111\u1ED3ng\\app_demo\\qc copper ui\\qc copper ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3447BA-953B-4BEF-8941-56588BA21CB5}|QC Copper UI\\QC Copper UI.csproj|solutionrelative:qc copper ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3447BA-953B-4BEF-8941-56588BA21CB5}|QC Copper UI\\QC Copper UI.csproj|g:\\my drive\\sti\\04.shiv12\\24.thi\u1EBFt gi\u00E1m s\u00E1t s\u1ED1 l\u01B0\u1EE3ng \u0111\u1ED3ng kho \u0111\u1ED3ng\\app_demo\\qc copper ui\\qc copper ui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 533,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:426686534:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QC Copper UI",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\QC Copper UI\\QC Copper UI.csproj",
+              "RelativeDocumentMoniker": "QC Copper UI\\QC Copper UI.csproj",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\QC Copper UI\\QC Copper UI.csproj",
+              "RelativeToolTip": "QC Copper UI\\QC Copper UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-07T08:31:16.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\QC Copper UI\\App.xaml",
+              "RelativeDocumentMoniker": "QC Copper UI\\App.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\QC Copper UI\\App.xaml",
+              "RelativeToolTip": "QC Copper UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-07T02:55:00.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\QC Copper UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "QC Copper UI\\MainWindow.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\QC Copper UI\\MainWindow.xaml",
+              "RelativeToolTip": "QC Copper UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-07T02:46:45.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\QC Copper UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QC Copper UI\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\24.Thi\u1EBFt Gi\u00E1m S\u00E1t S\u1ED1 L\u01B0\u1EE3ng \u0110\u1ED3ng Kho \u0110\u1ED3ng\\App_Demo\\QC Copper UI\\QC Copper UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "QC Copper UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:46:44.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
