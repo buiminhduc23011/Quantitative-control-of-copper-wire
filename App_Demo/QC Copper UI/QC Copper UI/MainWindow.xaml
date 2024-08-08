@@ -31,15 +31,16 @@
                         </StackPanel>
                     </TabItem.Header>
                     <StackPanel Margin="10">
-                        <Grid>
+                        <Grid x:Name="Grid_Value">
                             <Grid.RowDefinitions>
-                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="Auto"/>
                                 <RowDefinition Height="250"/>
                                 <RowDefinition Height="5"/>
                             </Grid.RowDefinitions>
-                            <Grid Grid.Row="0"
+                            <Grid Grid.Row="0" 
                                   HorizontalAlignment="Center"
-                                  VerticalAlignment="Center">
+                                  VerticalAlignment="Bottom"
+                                >
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="*"/>
                                     <ColumnDefinition Width="Auto"/>
@@ -49,15 +50,11 @@
                                            Text="00.000"
                                            FontWeight="Bold"
                                            FontSize="100"
-                                           FontFamily="7LED"
-                                           VerticalAlignment="Bottom"
-                                           Foreground="Red"/>
+                                           VerticalAlignment="Center"/>
                                 <TextBlock Grid.Column="1"
                                            Text="(Kg)"
                                            FontWeight="Bold"
-                                           FontSize="100"
-                                            FontFamily="7LED"
-                                           Foreground="Black"/>
+                                           FontSize="100"/>
                             </Grid>
                             <Border Grid.Row="1"
                                     CornerRadius="20">
@@ -97,6 +94,7 @@
                                         <RowDefinition Height="Auto"/>
                                         <RowDefinition Height="Auto"/> 
                                         <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
                                     </Grid.RowDefinitions>
                                     <TextBox Grid.Row="0" x:Name="txb_COM" 
                                                 materialDesign:HintAssist.Hint="Enter COM" 
@@ -110,13 +108,41 @@
     HorizontalAlignment="Left"
                                                Margin="10 0 0 0"
                                                FontSize="20"
-    Text="Lowest norm (Gram)"/>
+    Text="Min Stock (0-1000 Gram)"/>
                                     <Slider Grid.Row="2" Margin="20 40 20 0" Height="40"
                                            Style="{StaticResource MaterialDesignDiscreteSlider}"
   Maximum="1000"
   Minimum="0"
-  Value="{Binding valueLowest}" />
+  x:Name="Minstock" />
+                                    <Grid Grid.Row="3">
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="Auto"/>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="Auto"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Button Grid.Column="0" Margin="10 0 0 0"
+                                                      Width="200"
+                                                      Content="_TARE"
+                                                        Background="#00b0ff"
+Foreground="White"
+                                                      Style="{StaticResource MaterialDesignRaisedLightButton}"
+                                                    Click="Tare_Click"
+                                                      ToolTip="Tare" />
+                                            <Button Grid.Column="2"
+                                                    Margin="0 0 10 0"
+                                                    Background="#00b0ff"
+                                                    Foreground="White"
+Width="200"
+Content="_SAVE"
+Style="{StaticResource MaterialDesignRaisedLightButton}"
+                                                    Click="Save_Click"
+ToolTip="Save" />
+                                        </Grid>
+                                       
+                                    </Grid>
                                 </Grid>
+                                
                                
                             </materialDesign:Card>
                            

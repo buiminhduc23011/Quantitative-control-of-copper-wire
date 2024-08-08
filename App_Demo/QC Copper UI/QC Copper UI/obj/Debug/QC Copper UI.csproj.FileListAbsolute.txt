@@ -23,3 +23,15 @@ G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồn
 G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Coppe.3038B9AE.Up2Date
 G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI.exe
 G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI.pdb
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\Newtonsoft.Json.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\System.Buffers.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\System.Memory.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\System.Numerics.Vectors.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\System.Text.Encodings.Web.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\System.Text.Json.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\bin\Debug\System.ValueTuple.dll
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\STI\04.SHIV12\24.Thiết Giám Sát Số Lượng Đồng Kho Đồng\App_Demo\QC Copper UI\QC Copper UI\obj\Debug\QC Copper UI.exe.config

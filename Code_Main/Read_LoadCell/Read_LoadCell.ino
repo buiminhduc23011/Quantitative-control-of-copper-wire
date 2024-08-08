@@ -12,7 +12,6 @@
 #include <Arduino.h>
 #include "HX711.h"
 #include <SoftwareSerial.h>
-
 #include<ModbusRtu.h>    
 Modbus bus;
 // HX711 circuit wiring
@@ -24,16 +23,16 @@ HX711 scale;
 
 SoftwareSerial RS485_Serial(10, 11); // RX, TX
 
-uint16_t au16data[16] = {3, 1415, 9265, 4, 2, 7182, 28182, 8, 0, 0, 0, 0, 0, 0, 1, -1 };
+//uint16_t au16data[16] = {3, 1415, 9265, 4, 2, 7182, 28182, 8, 0, 0, 0, 0, 0, 0, 1, -1 };
 
 
 
 
 void setup() {
  Serial.begin(9600);
- Serial.println("Initializing the scale");
+ //Serial.println("Initializing the scale");
 
-  scale.begin(LOADCELL_DOUT_PIN, LOADCELL_SCK_PIN);
+scale.begin(LOADCELL_DOUT_PIN, LOADCELL_SCK_PIN);
 
   // Serial.println("Before setting up the scale:");
   // Serial.print("read: \t\t");
@@ -51,19 +50,19 @@ void setup() {
             
   scale.set_scale(43.59);
   scale.tare();
-  bus = Modbus(10,RS485_Serial,4);  
-  bus.begin(9600);
+  //bus = Modbus(10,RS485_Serial,4);  
+  //bus.begin(9600);
  // pinMode(4, OUTPUT);
 }
 
 void loop() {
-  //double weight = scale.get_units(10);
+  double weight = scale.get_units(10);
   //bus.poll( au16data, 16 );
  // Serial.print(au16data[0]);
   // Serial.println(""); 
   // Serial.print("Khối Lượng Tịnh: ");
-  double test = random(1000,10000);
-  Serial.println(test/1000, 3);
+ // double test = random(1000,10000);
+  Serial.println(weight/1000, 3);
   // Serial.print("(Kg)");
   // Serial.print("|==>");
   // Serial.print(weight, 1);
